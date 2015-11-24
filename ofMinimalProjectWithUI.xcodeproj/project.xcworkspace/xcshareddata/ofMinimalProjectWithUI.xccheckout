@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>DAFFEEF1-EF19-451B-8F6D-1C0B8B0B0DB2</string>
+	<string>FA429BAB-7000-4857-B452-DCA9765A6EB1</string>
 	<key>IDESourceControlProjectName</key>
-	<string>ofApp</string>
+	<string>ofMinimalProjectWithUI</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>860D0782218C7724165ED1929F54739F0532E2CF</key>
-		<string>https://github.com/yasnis/ofMinimalProject.git</string>
+		<key>C1EE77D21189F9C7DFFFF3642DA12B14463345AD</key>
+		<string>https://github.com/yasnis/ofMinimalProjectWithUI.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ofApp.xcodeproj</string>
+	<string>ofMinimalProjectWithUI.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>860D0782218C7724165ED1929F54739F0532E2CF</key>
+		<key>C1EE77D21189F9C7DFFFF3642DA12B14463345AD</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/yasnis/ofMinimalProject.git</string>
+	<string>https://github.com/yasnis/ofMinimalProjectWithUI.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>860D0782218C7724165ED1929F54739F0532E2CF</string>
+	<string>C1EE77D21189F9C7DFFFF3642DA12B14463345AD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>860D0782218C7724165ED1929F54739F0532E2CF</string>
+			<string>C1EE77D21189F9C7DFFFF3642DA12B14463345AD</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ofMinimalProject</string>
+			<string>ofMinimalProjectWithUI</string>
 		</dict>
 	</array>
 </dict>

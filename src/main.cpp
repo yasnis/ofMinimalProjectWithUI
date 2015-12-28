@@ -20,8 +20,6 @@ class ofApp : public ofBaseApp{
     ofxButton param_group1_param2;
     
     
-    
-    
     //--------------------------------------------------------------
     void setup(){
         ofBackground(0);

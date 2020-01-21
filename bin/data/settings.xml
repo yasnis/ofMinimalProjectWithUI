@@ -1,6 +1,7 @@
+<?xml version="1.0"?>
 <group>
-	<group/>
-<Parameter_Group_0>
+	<group />
+	<Parameter_Group_0>
 		<Param_0>0.392857</Param_0>
 		<Param_1>29</Param_1>
 		<Param_2>0</Param_2>
@@ -10,21 +11,32 @@
 		<Param_1>128</Param_1>
 		<Param_2>0</Param_2>
 	</Parameter_Group_1>
-<Setting>
+	<Setting>
 		<Parameter_Group_0>
 			<Param_0>0.451531</Param_0>
 			<Param_1>147</Param_1>
 			<Param_2>68</Param_2>
 		</Parameter_Group_0>
-	<UnknownName>0</UnknownName>
-	<param_group1_param0>1</param_group1_param0>
-	<toggle>1</toggle>
-	<group>
+		<UnknownName>0</UnknownName>
+		<param_group1_param0>1</param_group1_param0>
+		<toggle>1</toggle>
+		<group>
 			<toggle>0</toggle>
 		</group>
-	<Parameter_Group_1>
+		<Parameter_Group_1>
 			<toggle>1</toggle>
-		<string>test</string>
+			<string>test</string>
 		</Parameter_Group_1>
 	</Setting>
 </group>
+<Setting>
+	<Parameter_Group_0>
+		<Param_0>0.3</Param_0>
+		<Param_1>97</Param_1>
+		<Param_2>0</Param_2>
+	</Parameter_Group_0>
+	<Parameter_Group_1>
+		<toggle>0</toggle>
+		<string>test</string>
+	</Parameter_Group_1>
+</Setting>
